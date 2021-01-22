@@ -1,4 +1,4 @@
-# companiesAmazon
+# companies
 
 ## After git pull need to create folders ./companies and ./results
 
